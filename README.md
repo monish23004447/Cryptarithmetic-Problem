@@ -1,6 +1,6 @@
 ## ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
-## Name: ASWIKA B
-## Register Number: 212224220013
+## Name: MONISHKUMAR V
+## Register Number: 212223040116
 ## Aim:
 To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
 
